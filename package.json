@@ -1,0 +1,43 @@
+{
+  "name": "araider",
+  "version": "1.0.0",
+  "description": "A js library for processing, transforming and calculating arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrenmoe/araider.git"
+  },
+  "keywords": [
+    "array",
+    "processing",
+    "lib",
+    "library",
+    "transform",
+    "transforming",
+    "js",
+    "node",
+    "node_modules",
+    "modules",
+    "calc",
+    "calculating"
+  ],
+  "author": "Alex Rossiter <terrenmoe@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/terrenmoe/araider/issues"
+  },
+  "homepage": "https://github.com/terrenmoe/araider#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb-base"
+    ]
+  }
+}
